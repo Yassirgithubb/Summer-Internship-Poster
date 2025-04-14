@@ -1,7 +1,7 @@
 
 # 🧪 Characterization and Optimization of Droplet Sorting Technique in Microfluidics
 
-![Poster](image.png)
+![Poster](Poster.jpg)
 
 ## 📌 Project Overview
 
